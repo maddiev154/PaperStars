@@ -20,6 +20,6 @@
     <p> They are said to represent a gift of love and good luck.</p>
     <div>
       <h2> How to Make </h2>
-      
+      <img
     </div>
 </html>
