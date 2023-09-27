@@ -4,7 +4,7 @@
   <h1> Paper Stars</h1>
     <h2> Why Make Paper Stars? </h2>
   <ul> 
-    <li>ITS FUN </li> 
+    <li>ITS FUN </li>
   <li>It is a good way to pass time </li>
     <li> They look pretty </li>
     <li>They are extremely easy to make </li>
