@@ -11,7 +11,7 @@
     <li>You make them in many different colors</li>
     <li> You <strong> only </strong> need paper!!!</li>
   </ul>
-  <img src="https://i.imgur.com/ZCAl21A.jpg" width="447" height="446.5"/> 
+  <img src="https://i.imgur.com/ZCAl21A.jpg" width="328" height="327.6"/> 
     </div>
     <h2>Origins of Paper stars </h2>
     <p> Paper stars(aka Lucky Stars) are originally from Japan. Back in the  The story of paper stars starts with a girl named Hoshi. She was in love with the stars, made sure to look at them every night before she went to sleep. One night, the stars began to fall. To preserve the ones that fell, she made a lucky star for each and kept them in a jar.  </p>
