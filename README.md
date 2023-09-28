@@ -18,7 +18,8 @@
     <p> Paper stars(aka Lucky Stars) are originally from Japan. Back in the  The story of paper stars starts with a girl named Hoshi. She was in love with the stars, made sure to look at them every night before she went to sleep. One night, the stars began to fall. To preserve the ones that fell, she made a lucky star for each and kept them in a jar.  </p>
     <p> "When ever a lucky star is made, a falling star is saved" </p>
     <p> They are said to represent a gift of love and good luck.</p>
-    <img src="https://i.imgur.com/L6siojD.jpg" width="157.6" height="118.3"/> <img src="https://i.imgur.com/a6VzjzP.jpg width="150" height="100"/> 
+    <p> <img src="https://i.imgur.com/L6siojD.jpg" width="157.6" height="118.3"/> </p> 
+    <p> <img src="https://i.imgur.com/a6VzjzP.jpg width="150 height ="100"/> </p>
 </div>
 <div>
       <h2> How to Make </h2>
@@ -37,10 +38,8 @@
       <img src= "https://i.imgur.com/9iqByX4.jpg" width="130" height="135"/> 
       <p> This was made with just my physics notebook </p>
     </div>
-    <div>
     <h6> Resources </h6>
     <ul>
     <li> <a href="https://www.goeasternoregon.com/grab_bag/what-were-into-origami-lucky-stars/article_c076a668-9fd6-11ec-a9fd-2778354eb35a.html#:~:text=Paper%20stars%20are%20also%20called,for%20every%20star%20that%20fell."> Origami Lucky Stars </a> </li>
     <li> <a href= "https://www.thesprucecrafts.com/how-to-make-origami-lucky-stars-2540914"> How to Make Origami Lucky Stars </a> </li>
     </ul>   
-</html>
