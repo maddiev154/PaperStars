@@ -19,6 +19,13 @@
     <p> They are said to represent a gift of love and good luck.</p>
     <div>
       <h2> How to Make </h2>
+  <ol> 
+    <li> Make sure you get long stripes of paper</li>
+    <li> At one end tie it into a knott (not too tight or too loose)</li>
+    <li> Then wrap the remainder of the paper over the flat sides of the star until it looks like a pentagon</li>
+    <li> At the end of the paper, you will tuck it into the flaps of the pentagon </li>
+    <li> Once you have a pentagon, pinch at each point untill it puffs up</li>
+    <li> If it caves in, you either wrapped the excess around the star too tight or too loose</li>
       <img
     </div>
 </html>
