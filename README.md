@@ -38,7 +38,7 @@
     <div>
     <h6> Resources </h6>
     <ul>
-    <li><a href= "https://www.goeasternoregon.com/grab_bag/what-were-into-origami-lucky-stars/article_c076a668-9fd6-11ec-a9fd-2778354eb35a.html#:~:text=Paper%20stars%20are%20also%20called,for%20every%20star%20that%20fell." /a> </li>
+    <li> <a href= "https://www.goeasternoregon.com/grab_bag/what-were-into-origami-lucky-stars/article_c076a668-9fd6-11ec-a9fd-2778354eb35a.html#:~:text=Paper%20stars%20are%20also%20called,for%20every%20star%20that%20fell."><Origami Lucky Stars /a> </li>
     <li> </li>
     </ul> </h6>
     </div>
