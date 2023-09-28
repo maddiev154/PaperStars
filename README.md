@@ -12,7 +12,6 @@
     <li> You <strong> only </strong> need paper!!!</li>
   </ul>
   <img src="https://i.imgur.com/ZCAl21A.jpg" width="246" height="245.75"/>
-    </div>
   <div> 
     <h2>Origins of Paper stars </h2>
     <p> Paper stars(aka Lucky Stars) are originally from Japan. Back in the  The story of paper stars starts with a girl named Hoshi. She was in love with the stars, made sure to look at them every night before she went to sleep. One night, the stars began to fall. To preserve the ones that fell, she made a lucky star for each and kept them in a jar.  </p>
@@ -20,7 +19,6 @@
     <p> They are said to represent a gift of love and good luck.</p>
     <p> <img src="https://i.imgur.com/L6siojD.jpg" width="157.6" height="118.3"/> </p> 
     <p> <img src="https://i.imgur.com/a6VzjzP.jpg width="150 height ="100"/> </p>
-</div>
 <div>
       <h2> How to Make </h2>
   <ol> 
@@ -30,8 +28,6 @@
     <li> At the end of the paper, you will tuck it into the flaps of the pentagon </li>
     <li> Once you have a pentagon, pinch at each point untill it puffs up</li>
     <li> If it caves in, you either wrapped the excess around the star too tight or too loose</li>
-<video> src= </video>
-    </div>
     <div> 
     <h2> What I Do With Them </h2>
       <p> As of recently i've been tearing strips from my notebook, making small stars and leaving them in my classes. I originally learned how to make them with my cousins and and her friends. Trying to fill up a jar is great way to bond with people. As its something simple and allows discussions while working towards a goal. Unless you want to do it on your own, it is a simple task that allows room for other thoughts.</p>
