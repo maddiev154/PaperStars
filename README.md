@@ -18,7 +18,6 @@
     <p> "When ever a lucky star is made, a falling star is saved" </p>
     <p> They are said to represent a gift of love and good luck.</p>
     <p> <img src="https://i.imgur.com/L6siojD.jpg" width="157.6" height="118.3"/> </p> 
-    <p> <img src="https://i.imgur.com/a6VzjzP.jpg width="150 height ="100"/> </p>
 <div>
       <h2> How to Make </h2>
   <ol> 
