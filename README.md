@@ -11,7 +11,7 @@
     <li>You make them in many different colors</li>
     <li> You <strong> only </strong> need paper!!!</li>
   </ul>
-  <img src="https://i.imgur.com/ZCAl21A.jpg" width="246" height="245.75"/> 
+  <img src="https://i.imgur.com/ZCAl21A.jpg" width="246" height="245.75"/> <img src="https://i.imgur.com/a6VzjzP.jpg width="150" height="100"/> 
     </div>
   <div> 
     <h2>Origins of Paper stars </h2>
