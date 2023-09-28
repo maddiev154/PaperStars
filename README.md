@@ -37,7 +37,6 @@
       <p> As of recently i've been tearing strips from my notebook, making small stars and leaving them in my classes. I originally learned how to make them with my cousins and and her friends. Trying to fill up a jar is great way to bond with people. As its something simple and allows discussions while working towards a goal. Unless you want to do it on your own, it is a simple task that allows room for other thoughts.</p>
       <img src= "https://i.imgur.com/9iqByX4.jpg" width="130" height="135"/> 
       <p> This was made with just my physics notebook </p>
-    </div>
     <h6> Resources </h6>
     <ul>
     <li> <a href="https://www.goeasternoregon.com/grab_bag/what-were-into-origami-lucky-stars/article_c076a668-9fd6-11ec-a9fd-2778354eb35a.html#:~:text=Paper%20stars%20are%20also%20called,for%20every%20star%20that%20fell."> Origami Lucky Stars </a> </li>
