@@ -18,7 +18,7 @@
     <p> Paper stars(aka Lucky Stars) are originally from Japan. Back in the  The story of paper stars starts with a girl named Hoshi. She was in love with the stars, made sure to look at them every night before she went to sleep. One night, the stars began to fall. To preserve the ones that fell, she made a lucky star for each and kept them in a jar.  </p>
     <p> "When ever a lucky star is made, a falling star is saved" </p>
     <p> They are said to represent a gift of love and good luck.</p>
-    <img src="https://i.imgur.com/L6siojD.jpg" width="118.5" height="88.75"/>
+    <img src="https://i.imgur.com/L6siojD.jpg" width="157.6" height="118.3"/>
 </div>
 <div>
       <h2> How to Make </h2>
